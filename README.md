@@ -31,7 +31,6 @@ I'm an **AIML Student at VIPS-TC** driven by curiosity. I love taking complex te
   <br>
   <img src="https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/C-80%25-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
   <br>
   <img src="https://img.shields.io/badge/Java-60%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -42,12 +41,11 @@ I'm an **AIML Student at VIPS-TC** driven by curiosity. I love taking complex te
 
 ### 📫 Let's Connect
 
-I am always open to discussing **AIML projects**, **Machine Learning**, or new **Collaboration opportunities**.
+I am always open to discussing **IoT projects**, **Computer Vision**, or new **Collaboration opportunities**.
 
 <div align="center">
-  <a href="mailto:thisisharshil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-thisisharshil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <br>
   <a href="https://www.linkedin.com/in/harshil-sri/">
     <img src="https://img.shields.io/badge/LinkedIn-Harshil_Sri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
