@@ -29,7 +29,6 @@ I'm an **AIML Student at VIPS-TC** driven by curiosity. I love taking complex te
 
   <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br>
-  <br>
   <img src="https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/C-80%25-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
