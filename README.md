@@ -97,12 +97,12 @@ I'm an **AIML Student at VIPS-TC** who treats every project like a domain expans
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil-sri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-sri&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="github-readme-stats-kng81h2gf-harshil-sris-projects.vercel.app/api?username=harshil-sri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="github-readme-stats-kng81h2gf-harshil-sris-projects.vercel.app/api/top-langs/?username=harshil-sri&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil-sri&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=harshil-sri&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
