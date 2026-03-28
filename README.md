@@ -102,7 +102,7 @@ I'm an **AIML Student at VIPS-TC** who treats every project like a domain expans
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harshil-sri&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil-sri&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
 </div>
 
 ---
