@@ -26,15 +26,56 @@ I'm an **AIML Student at VIPS-TC** diving deep into the world of neural networks
 
 ### 🚀 Active Research & Coursework
 
-**[MVSS-Net Lite](https://github.com/harshil-sri/mvss-net-lite)** | *CDAC Project*
-A lightweight, document-specific multi-view neural network for zero-shot forgery detection.
-- **The Problem:** Existing general forgery detectors fail to generalize reliably on documents (Pixel-F1 < 0.3).
-- **The Solution:** A dual-stream **ResNet-34** architecture. One stream extracts visual RGB artifacts, while the other captures statistical ELA/noise inconsistencies invisible to the eye.
-- **Innovation:** Uses an attention module for dynamic stream fusion and multi-scale supervision (BCE + edge supervision loss) to pinpoint boundary-aware tampering like copy-pasted text or stamps.
-- **Tech Stack:** PyTorch, FastAPI, React. Trained on DocTamper & CASIAv2.
-
-**[Stanford CS231N](https://github.com/harshil-sri/Standford-CS231N)** | *Deep Learning for Computer Vision*
-Working through the lectures and assignments to solidify my foundations in convolutional neural networks, image classification, and visual recognition.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3 align="center">🔍 MVSS-Net Lite</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active%20Research-blue?style=flat-square" />
+      </p>
+      <p>
+        A lightweight, document-specific multi-view neural network for zero-shot forgery detection. Built as a CDAC Project to address the poor generalization (Pixel-F1 < 0.3) of existing detectors on document tampering.
+      </p>
+      <ul>
+        <li><strong>Architecture:</strong> Dual-stream <em>ResNet-34</em> for RGB (visual) and ELA/noise (statistical) artifacts.</li>
+        <li><strong>Innovation:</strong> Dynamic attention stream fusion + multi-scale supervision to pinpoint copy-pasted boundaries.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-Model-EE4C2C?style=flat-square&logo=pytorch" />
+        <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi" />
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/harshil-sri/mvss-net-lite">
+          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="center">📚 Stanford CS231N</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" />
+      </p>
+      <p>
+        Deep Learning for Computer Vision. Working through the lectures and assignments to build an intuition for modern computer vision architectures.
+      </p>
+      <ul>
+        <li>Convolutional Neural Networks</li>
+        <li>Image Classification & Object Detection</li>
+        <li>Backpropagation & Optimization</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Assignments-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/harshil-sri/Standford-CS231N">
+          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -133,5 +174,5 @@ Always open to talking about **deep learning**, **computer vision**, **AI system
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=2E91E5&center=true&vCenter=true&width=500&lines=Domain+Expansion%3A+Deep+Learning+Arc." alt="footer" />
+  <p><em>Throughout Heaven and Earth, I alone am the one who writes clean code (probably).</em></p>
 </div>
