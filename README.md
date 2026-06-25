@@ -69,7 +69,7 @@ I'm an **AIML Student at VIPS-TC** diving deep into the world of neural networks
         <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter" />
       </p>
       <p align="center">
-        <a href="https://github.com/harshil-sri/Standford-CS231N">
+        <a href="https://github.com/harshil-sri/Stanford-CS231N">
           <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
