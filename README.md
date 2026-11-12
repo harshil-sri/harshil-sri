@@ -1,178 +1,37 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Harshil!+%F0%9F%91%8B;AIML+Student+%40+VIPS-TC;Building+Deep+Learning+Models;Currently+in+my+Deep+Learning+arc." alt="Typing SVG" />
-</div>
+## Harshil Srivastav
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/harshil-sri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/harshil-sri">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+AI/ML student at VIPS-TC, working on computer vision, audio deepfakes and ML systems. I like problems where the data is messy and the results have to hold up outside the notebook: compressed audio, documents with almost no labels, network traffic that only flows one way.
 
----
+### Projects
 
-### ⚡ About Me
+**[ego-vision](https://github.com/harshil-sri/ego-vision)**: egocentric video research.
+A head-mounted camera follows someone through a task, and a VideoMAE verb model with a recipe state machine tracks their progress live. The research part asks *when* human instructors choose to speak during hands-on work. On HoloAssist, instructors rarely start talking during screw, unscrew and insert actions (0.28–0.46× the base rate). A pre-registered rating study with 14 raters tests whether timing matters, and the replications on WTaG and Ego-EXTRA are reported as failed replications.
+`PyTorch` `VideoMAE` `DINOv2` `EPIC-KITCHENS`
 
-I'm an **AIML Student at VIPS-TC** diving deep into the world of neural networks. I treat every project like a domain expansion, constantly pushing my technical boundaries, whether it's understanding the math behind backprop or building document forgery detectors from scratch.
+**[deep-voice-defender](https://github.com/harshil-sri/deep-voice-defender)**: deepfake voice detection that survives WhatsApp.
+Most detectors fail once audio goes through messaging-app compression. During training, a corruption layer applies Opus re-encoding, resampling and noise. Evaluated with the official EER and min t-DCF; best dev EER is 2.5–4.0% with full augmentation, from a 15-run ablation grid.
+`TensorFlow` `Audio` `Kaggle GPUs`
 
-- 🧠 Currently building: **MVSS-Net Lite** (a multi-view neural network for document forgery detection)
-- 📚 Currently studying: **Stanford CS231N** (Deep Learning for Computer Vision)
-- ✅ Recently completed: **makemore** and **micrograd** (building LLMs and autograd engines from the ground up)
-- ⚡ Fun fact: I once wrote a Python script to force my lightbulbs to appreciate Joji albums. It worked.
+**[mvss-net-lite](https://github.com/harshil-sri/mvss-net-lite)**: document forgery localisation (CDAC research internship).
+A dual-stream ResNet-34 (RGB and noise/edge views) with attention fusion localises tampered regions at the pixel level. A FastAPI service turns the predictions into readable forensic reports. [Weights in the release.](https://github.com/harshil-sri/mvss-net-lite/releases)
+`PyTorch` `FastAPI` `CASIA` `DEFACTO` `MIDV-500`
 
----
+**[SIH-2026](https://github.com/harshil-sri/SIH-2026)**: threat detection behind a data diode (Smart India Hackathon, team HarTimeError).
+Forward-only traffic features feed an XGBoost classifier, an LSTM autoencoder and protocol detectors, fused into one threat score and streamed to a live operator console.
+`XGBoost` `LSTM` `FastAPI` `WebSockets` `React`
 
-### 🚀 Active Research & Coursework
+**[rsna-knee](https://github.com/harshil-sri/rsna-knee)**: Kaggle RSNA Knee Abnormality Detection, 0.956 macro-AUC.
+Only 58 of 4,407 MRI studies had labels, so I built weak labels from radiology reports, validated against the 58, and trained 2.5D ConvNeXt models.
+`PyTorch` `timm` `DICOM`
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3 align="center">🔍 MVSS-Net Lite</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Active%20Research-blue?style=flat-square" />
-      </p>
-      <p>
-        A lightweight, document-specific multi-view neural network for zero-shot forgery detection. Built as a CDAC Project to address the poor generalization (Pixel-F1 < 0.3) of existing detectors on document tampering.
-      </p>
-      <ul>
-        <li><strong>Architecture:</strong> Dual-stream <em>ResNet-34</em> for RGB (visual) and ELA/noise (statistical) artifacts.</li>
-        <li><strong>Innovation:</strong> Dynamic attention stream fusion + multi-scale supervision to pinpoint copy-pasted boundaries.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-Model-EE4C2C?style=flat-square&logo=pytorch" />
-        <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi" />
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/harshil-sri/mvss-net-lite">
-          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <h3 align="center">📚 Stanford CS231N</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" />
-      </p>
-      <p>
-        Deep Learning for Computer Vision. Working through the lectures and assignments to build an intuition for modern computer vision architectures.
-      </p>
-      <ul>
-        <li>Convolutional Neural Networks</li>
-        <li>Image Classification & Object Detection</li>
-        <li>Backpropagation & Optimization</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-Assignments-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/harshil-sri/Stanford-CS231N">
-          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+**Hackathon builds:** [delegates](https://github.com/harshil-sri/delegates) (AI advocates negotiate and humans sign off) · [prometheus](https://github.com/harshil-sri/prometheus) (closed-loop fraud detection, Mastercard Innovation Challenge) · [Quorum](https://github.com/Chirag-agg/Quorum-qualcomm-hack) (edge-first LLM routing, Qualcomm hackathon)
 
----
+**Smaller things:** [ScrollSaver](https://github.com/harshil-sri/ScrollSaver) (a Telegram bot that turns saved Reels into Notion notes) · [logic-lobby-v2](https://github.com/harshil-sri/logic-lobby-v2) (an on-campus recruitment puzzle hunt) · [micrograd](https://github.com/harshil-sri/micrograd) and [makemore](https://github.com/harshil-sri/makemore) (Karpathy's Zero to Hero, worked through by hand)
 
-### 🔥 Featured Projects
+### Tools
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 makemore</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-      </p>
-      <p>
-        An autoregressive character-level language model built entirely from scratch. Implemented bigram, MLP, CNN, and RNN/Transformer architectures to generate name-like sequences. A deep dive into the mathematical and structural foundations of how modern LLMs understand and generate language.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch" />
-        <img src="https://img.shields.io/badge/Python-Data-3776AB?style=flat-square&logo=python" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/harshil-sri/makemore">
-          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚙️ micrograd</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-      </p>
-      <p>
-        A tiny, custom-built scalar-valued autograd engine with a neural network library on top. This project involved mathematically reverse-engineering backpropagation to understand exactly how gradients flow through computational graphs, serving as the core mechanism behind neural network training.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-Engine-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/harshil-sri/micrograd">
-          <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+Python, PyTorch, TensorFlow, scikit-learn, XGBoost, FastAPI, React/TypeScript, Docker, Kaggle, Linux
 
----
+### Contact
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-80%25-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-60%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Deep Learning & Tools**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-Using-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Using-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Learning-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Using-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil-sri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-sri&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&card_width=340" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil-sri&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
-</div>
-
----
-
-### 📫 Let's Connect
-
-Always open to talking about **deep learning**, **computer vision**, **AI systems**, or anything that sounds unhinged but technically interesting.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Email-thisisharshil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <br><br>
-  <a href="https://www.linkedin.com/in/harshil-sri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshil_Sri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <p><em>Throughout Heaven and Earth, I alone am the one who writes clean code (probably).</em></p>
-</div>
+[LinkedIn](https://www.linkedin.com/in/harshil-sri/) · thisisharshil@gmail.com
