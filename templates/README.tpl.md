@@ -17,23 +17,28 @@ AI/ML student at VIPS-TC, working on computer vision, audio deepfakes and ML sys
 
 ### Projects
 
-**[ego-vision](https://github.com/harshil-sri/ego-vision)**: egocentric video research. {{badges:ego-vision}}
+**[ego-vision](https://github.com/harshil-sri/ego-vision)**: egocentric video research.<br>
+{{badges:ego-vision}}<br>
 A head-mounted camera follows someone through a task, and a VideoMAE verb model with a recipe state machine tracks their progress live. The research part asks *when* human instructors choose to speak during hands-on work. On HoloAssist, instructors rarely start talking during screw, unscrew and insert actions (0.28–0.46× the base rate). A pre-registered rating study with 14 raters tests whether timing matters, and the replications on WTaG and Ego-EXTRA are reported as failed replications.
 `PyTorch` `VideoMAE` `DINOv2` `EPIC-KITCHENS`
 
-**[deep-voice-defender](https://github.com/harshil-sri/deep-voice-defender)**: deepfake voice detection that survives WhatsApp. {{badges:deep-voice-defender}}
+**[deep-voice-defender](https://github.com/harshil-sri/deep-voice-defender)**: deepfake voice detection that survives WhatsApp.<br>
+{{badges:deep-voice-defender}}<br>
 Most detectors fail once audio goes through messaging-app compression. During training, a corruption layer applies Opus re-encoding, resampling and noise. Evaluated with the official EER and min t-DCF; best dev EER is 2.5–4.0% with full augmentation, from a 15-run ablation grid.
 `TensorFlow` `Audio` `Kaggle GPUs`
 
-**[mvss-net-lite](https://github.com/harshil-sri/mvss-net-lite)**: document forgery localisation (CDAC research internship). {{badges:mvss-net-lite}}
+**[mvss-net-lite](https://github.com/harshil-sri/mvss-net-lite)**: document forgery localisation (CDAC research internship).<br>
+{{badges:mvss-net-lite}}<br>
 A dual-stream ResNet-34 (RGB and noise/edge views) with attention fusion localises tampered regions at the pixel level. A FastAPI service turns the predictions into readable forensic reports. [Weights in the release.](https://github.com/harshil-sri/mvss-net-lite/releases)
 `PyTorch` `FastAPI` `CASIA` `DEFACTO` `MIDV-500`
 
-**[SIH-2026](https://github.com/harshil-sri/SIH-2026)**: threat detection behind a data diode (Smart India Hackathon, team HarTimeError). {{badges:SIH-2026}}
+**[SIH-2026](https://github.com/harshil-sri/SIH-2026)**: threat detection behind a data diode (Smart India Hackathon, team HarTimeError).<br>
+{{badges:SIH-2026}}<br>
 Forward-only traffic features feed an XGBoost classifier, an LSTM autoencoder and protocol detectors, fused into one threat score and streamed to a live operator console.
 `XGBoost` `LSTM` `FastAPI` `WebSockets` `React`
 
-**[rsna-knee](https://github.com/harshil-sri/rsna-knee)**: Kaggle RSNA Knee Abnormality Detection, 0.956 macro-AUC. {{badges:rsna-knee}}
+**[rsna-knee](https://github.com/harshil-sri/rsna-knee)**: Kaggle RSNA Knee Abnormality Detection, 0.956 macro-AUC.<br>
+{{badges:rsna-knee}}<br>
 Only 58 of 4,407 MRI studies had labels, so I built weak labels from radiology reports, validated against the 58, and trained 2.5D ConvNeXt models.
 `PyTorch` `timm` `DICOM`
 
