@@ -55,7 +55,12 @@ Only 58 of 4,407 MRI studies had labels, so I built weak labels from radiology r
 
 Worked with me? Open a skill below and react with 👍. Your avatar shows up here within a few hours.
 
-_No skills listed yet._
+- [PyTorch](https://github.com/harshil-sri/harshil-sri/issues/1)
+- [Computer Vision](https://github.com/harshil-sri/harshil-sri/issues/2)
+- [Audio &amp; Deepfake Detection](https://github.com/harshil-sri/harshil-sri/issues/3)
+- [FastAPI &amp; ML Backends](https://github.com/harshil-sri/harshil-sri/issues/4)
+- [React &amp; TypeScript](https://github.com/harshil-sri/harshil-sri/issues/5)
+- [Shipping at Hackathons](https://github.com/harshil-sri/harshil-sri/issues/6)
 
 ### Tools
 
