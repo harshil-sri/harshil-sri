@@ -16,7 +16,7 @@ AI/ML student at VIPS-TC, working on computer vision, audio deepfakes and ML sys
 - **[harshil-sri/BackDown](https://github.com/harshil-sri/BackDown)**: Link the README video to the YouTube upload <sub>(2 days ago)</sub>
 - **[harshil-sri/ego-vision](https://github.com/harshil-sri/ego-vision)**: Correct the WTaG result in summary, gap map and paper draft <sub>(4 days ago)</sub>
 - **[harshil-sri/mvss-net-lite](https://github.com/harshil-sri/mvss-net-lite)**: Restore source code under src/ after reorganisation <sub>(5 days ago)</sub>
-- **[harshil-sri/delegates](https://github.com/harshil-sri/delegates)**: Move design docs into docs/design and stop tracking agent workspace f… <sub>(5 days ago)</sub>
+- **[harshil-sri/delegates](https://github.com/harshil-sri/delegates)**: Move design docs into docs/design and stop tracking agent workspace f… <sub>(6 days ago)</sub>
 
 ### Projects
 
@@ -75,4 +75,4 @@ Python, PyTorch, TensorFlow, scikit-learn, XGBoost, FastAPI, React/TypeScript, D
 
 [LinkedIn](https://www.linkedin.com/in/harshil-sri/) · thisisharshil@gmail.com
 
-<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 18 Nov 2026, 18:02 IST.</sub>
+<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 19 Nov 2026, 04:07 IST.</sub>
