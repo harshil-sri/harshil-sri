@@ -131,10 +131,7 @@ def endorsements_section():
 def badges(name):
     base = "https://img.shields.io/github"
     q = "style=flat-square&labelColor=343b41"
-    return (
-        f'<img alt="stars" src="{base}/stars/{USER}/{name}?{q}&label=%E2%98%85" /> '
-        f'<img alt="last commit" src="{base}/last-commit/{USER}/{name}?{q}&label=updated" />'
-    )
+    return f'<img alt="last commit" src="{base}/last-commit/{USER}/{name}?{q}&label=updated" />'
 
 
 SVG_STYLE = """
