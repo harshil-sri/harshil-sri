@@ -75,4 +75,4 @@ Python, PyTorch, TensorFlow, scikit-learn, XGBoost, FastAPI, React/TypeScript, D
 
 [LinkedIn](https://www.linkedin.com/in/harshil-sri/) · thisisharshil@gmail.com
 
-<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 20 Nov 2026, 17:21 IST.</sub>
+<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 21 Nov 2026, 01:59 IST.</sub>
