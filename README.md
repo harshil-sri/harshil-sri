@@ -16,7 +16,7 @@ AI/ML student at VIPS-TC, working on computer vision, audio deepfakes and ML sys
 - **[harshil-sri/ego-vision](https://github.com/harshil-sri/ego-vision)**: Study queue items 28-38: boosting, ratios, pre-registration, kappa, l… <sub>(1 day ago)</sub>
 - **[harshil-sri/BackDown](https://github.com/harshil-sri/BackDown)**: Link the README video to the YouTube upload <sub>(4 days ago)</sub>
 - **[harshil-sri/mvss-net-lite](https://github.com/harshil-sri/mvss-net-lite)**: Restore source code under src/ after reorganisation <sub>(7 days ago)</sub>
-- **[harshil-sri/delegates](https://github.com/harshil-sri/delegates)**: Move design docs into docs/design and stop tracking agent workspace f… <sub>(7 days ago)</sub>
+- **[harshil-sri/delegates](https://github.com/harshil-sri/delegates)**: Move design docs into docs/design and stop tracking agent workspace f… <sub>(8 days ago)</sub>
 
 ### Projects
 
@@ -75,4 +75,4 @@ Python, PyTorch, TensorFlow, scikit-learn, XGBoost, FastAPI, React/TypeScript, D
 
 [LinkedIn](https://www.linkedin.com/in/harshil-sri/) · thisisharshil@gmail.com
 
-<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 21 Nov 2026, 01:59 IST.</sub>
+<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 21 Nov 2026, 07:56 IST.</sub>
