@@ -13,10 +13,10 @@ AI/ML student at VIPS-TC, working on computer vision, audio deepfakes and ML sys
 
 ### Right now
 
-- **[harshil-sri/ego-vision](https://github.com/harshil-sri/ego-vision)**: License code under MIT and released labels under CC BY 4.0 <sub>(38 minutes ago)</sub>
-- **[harshil-sri/SIH-2026](https://github.com/harshil-sri/SIH-2026)**: fix(live): suppress trivial per-source window spam from spoofed floods <sub>(11 hours ago)</sub>
-- **[harshil-sri/BackDown](https://github.com/harshil-sri/BackDown)**: Link the README video to the YouTube upload <sub>(5 days ago)</sub>
-- **[harshil-sri/delegates](https://github.com/harshil-sri/delegates)**: Move design docs into docs/design and stop tracking agent workspace f… <sub>(8 days ago)</sub>
+- **[harshil-sri/openvino](https://github.com/harshil-sri/openvino)**: [NPUW] LongRoPE: detect exports without rotary Broadcast (#40088) <sub>(5 hours ago)</sub>
+- **[harshil-sri/ego-vision](https://github.com/harshil-sri/ego-vision)**: License code under MIT and released labels under CC BY 4.0 <sub>(6 hours ago)</sub>
+- **[harshil-sri/opencv](https://github.com/harshil-sri/opencv)**: Merge pull request #31008 from sshivensolanki/dnn-eyelike-uint32-uint64 <sub>(9 hours ago)</sub>
+- **[harshil-sri/SIH-2026](https://github.com/harshil-sri/SIH-2026)**: fix(live): suppress trivial per-source window spam from spoofed floods <sub>(17 hours ago)</sub>
 
 ### Projects
 
@@ -75,4 +75,4 @@ Python, PyTorch, TensorFlow, scikit-learn, XGBoost, FastAPI, React/TypeScript, D
 
 [LinkedIn](https://www.linkedin.com/in/harshil-sri/) · thisisharshil@gmail.com
 
-<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 22 Nov 2026, 00:55 IST.</sub>
+<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 22 Nov 2026, 06:54 IST.</sub>
