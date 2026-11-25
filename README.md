@@ -15,8 +15,8 @@ AI/ML student at VIPS-TC, working on computer vision, audio deepfakes and ML sys
 
 - **[harshil-sri/nanogpt](https://github.com/harshil-sri/nanogpt)**: Add README with model details, loss curve and sample output <sub>(2 days ago)</sub>
 - **[harshil-sri/openvino](https://github.com/harshil-sri/openvino)**: [NPUW] LongRoPE: detect exports without rotary Broadcast (#40088) <sub>(3 days ago)</sub>
-- **[harshil-sri/ego-vision](https://github.com/harshil-sri/ego-vision)**: License code under MIT and released labels under CC BY 4.0 <sub>(3 days ago)</sub>
-- **[harshil-sri/opencv](https://github.com/harshil-sri/opencv)**: Merge pull request #31008 from sshivensolanki/dnn-eyelike-uint32-uint64 <sub>(3 days ago)</sub>
+- **[harshil-sri/ego-vision](https://github.com/harshil-sri/ego-vision)**: License code under MIT and released labels under CC BY 4.0 <sub>(4 days ago)</sub>
+- **[harshil-sri/opencv](https://github.com/harshil-sri/opencv)**: Merge pull request #31008 from sshivensolanki/dnn-eyelike-uint32-uint64 <sub>(4 days ago)</sub>
 
 ### Projects
 
@@ -75,4 +75,4 @@ Python, PyTorch, TensorFlow, scikit-learn, XGBoost, FastAPI, React/TypeScript, D
 
 [LinkedIn](https://www.linkedin.com/in/harshil-sri/) · thisisharshil@gmail.com
 
-<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 25 Nov 2026, 14:16 IST.</sub>
+<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 26 Nov 2026, 00:53 IST.</sub>
