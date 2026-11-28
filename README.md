@@ -13,10 +13,10 @@ AI/ML student at VIPS-TC, working on computer vision, audio deepfakes and ML sys
 
 ### Right now
 
-- **[harshil-sri/MONAI](https://github.com/harshil-sri/MONAI)**: docs(detection): clarify BoxToMask/MaskToBox StandardMode axis order … <sub>(8 hours ago)</sub>
-- **[harshil-sri/torchmetrics](https://github.com/harshil-sri/torchmetrics)**: Count all samples in multilabel ranking loss (#3672) <sub>(13 hours ago)</sub>
-- **[harshil-sri/open_clip](https://github.com/harshil-sri/open_clip)**: Default --lock-text-freeze-layer-norm to True via BooleanOptionalAction <sub>(13 hours ago)</sub>
-- **[harshil-sri/segmentation_models.pytorch](https://github.com/harshil-sri/segmentation_models.pytorch)**: Merge pull request #1472 from qubvel-org/dependabot/pip/requirements/… <sub>(19 hours ago)</sub>
+- **[harshil-sri/MONAI](https://github.com/harshil-sri/MONAI)**: docs(detection): clarify BoxToMask/MaskToBox StandardMode axis order … <sub>(17 hours ago)</sub>
+- **[harshil-sri/torchmetrics](https://github.com/harshil-sri/torchmetrics)**: Count all samples in multilabel ranking loss (#3672) <sub>(22 hours ago)</sub>
+- **[harshil-sri/open_clip](https://github.com/harshil-sri/open_clip)**: Default --lock-text-freeze-layer-norm to True via BooleanOptionalAction <sub>(23 hours ago)</sub>
+- **[harshil-sri/segmentation_models.pytorch](https://github.com/harshil-sri/segmentation_models.pytorch)**: Merge pull request #1472 from qubvel-org/dependabot/pip/requirements/… <sub>(1 day ago)</sub>
 
 ### Projects
 
@@ -75,4 +75,4 @@ Python, PyTorch, TensorFlow, scikit-learn, XGBoost, FastAPI, React/TypeScript, D
 
 [LinkedIn](https://www.linkedin.com/in/harshil-sri/) · thisisharshil@gmail.com
 
-<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 28 Nov 2026, 13:28 IST.</sub>
+<sub>This page rebuilds itself every few hours with GitHub Actions. Last refreshed 28 Nov 2026, 23:07 IST.</sub>
